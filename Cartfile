@@ -1,4 +1,4 @@
-github "escolarea/VarInt"
-github "escolarea/SwiftMultihash"
+github "escolarea/VarInt" "master"
+github "escolarea/SwiftMultihash" "master"
 #git "file:///Users/teo/source/Apple/macOS/Libraries/SwiftMultihash"
 
